@@ -1,40 +1,42 @@
 Guit
+
 Ultilizado para versionamento
 
 Comandos diferentes
 
- Windows X Unix
-cd          cd
-dir         ls
-mkdir       mkdir
-del/rmdir   rm-rf
+Windows X Unix
+cd                           cd
+dir                           ls
+mkdir                       mkdir
+del/rmdir                  rm-rf
 
 
-Listagem de comandos BÃ¡sicos
+Listagem de comandos Básicos
 
-    >dir:listagem de pastas
-    >cd
-    >cls
-    >ls
-    >git config --global user.name: Setar usuÃ¡rio
-    >git config --global user.email: Setar email
-    >git config --global core.editor: Setar editor
-    >git config --list: Listar configuraÃ§Ãµes
-    >git init: Criar novo repositÃ³rio
-    >git status: Verificar estado dos arquivos/diretÃ³rios
-    >git add meu_arquivo.txt: Adicionar um arquivo em especÃ­fico
-    >git add .: Adicionar todos os arquivos/diretÃ³rios
-    >git commit meu_arquivo.txt: Comitar um arquivo
-    >git commit meu_arquivo.txt meu_outro_arquivo.txt: Comitar vÃ¡rios arquivos
-    >git commit meuarquivo.txt -m "minha mensagem de commit": Comitar informando mensagem 
-    >git rm meu_arquivo.txt: Remover arquivo
-    >git status: fornece algumas informaÃ§Ãµes sobre a branch
-    >Git clone: baixar o cÃ³digo-fonte existente de um repositÃ³rio remoto
-    >Git push:  envia e salva suas confirmaÃ§Ãµes no repositÃ³rio remoto
-    >git pull: obter atualizaÃ§Ãµes do repositÃ³rio remoto 
-    >
-    >
-    >
+    dir
+    cd
+    cls
+    ls
+    git config --global user.name: Setar usuario
+    git config --global user.email: Setar email
+    git config --global core.editor: Setar editor
+    git config --list: Listar configurações
+    git init: Criar novo repositório
+    git status: Verificar estado dos arquivos/diretórios
+    git add meu_arquivo.txt: Adicionar um arquivo em especifico
+    git add .: Adicionar todos os arquivos/diretórios
+    git commit meu_arquivo.txt: Comitar um arquivo
+    git commit meu_arquivo.txt meu_outro_arquivo.txt: Comitar vários arquivos
+    git commit meuarquivo.txt -m "minha mensagem de commit": Comitar    informando mensagem 
+    git rm meu_arquivo.txt: Remover arquivo
+    git status: fornece algumas informações sobre a branch
+    Git clone: baixar o cÃ³digo-fonte existente de um repositório remoto
+    Git push:  envia e salva suas confirmações no repositório remoto
+    git pull: obter atualizações do repositório remoto 
+    
+
+     
+ 
 
 
 
