@@ -1,0 +1,10 @@
+Portas
+
+- do inglês: ports
+ Portinhas de onde os dados sairam e chegarão
+.20=FTP
+.22=SSH
+.25=SMTP
+.53=DNS
+.80=HTTP
+.443=HTTPS

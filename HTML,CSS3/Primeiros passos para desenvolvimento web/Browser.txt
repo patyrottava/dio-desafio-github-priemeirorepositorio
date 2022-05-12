@@ -1,0 +1,6 @@
+ Para ver um site é preciso de um navegador
+
+-sabe identificar várias LP, linguagens de marcação e conteúdo
+multimidia
+-plug-ins ou add-ons ajudam na navegação
+-cache e cookies

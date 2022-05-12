@@ -1,0 +1,11 @@
+WI-FI
+
+conexão sem fio
+
+Segurança
+
+.WEP
+.WPA
+.WPA2
+    +segurança
+    +processamento

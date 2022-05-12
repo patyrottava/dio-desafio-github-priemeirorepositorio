@@ -1,0 +1,9 @@
+.dois tipos
+-estático
+-dinâmico: arquivos, aplicações, banco de dados,dados de um site ou aplicativo precisa estar hospedado em um servidor
+
+
+web-service
+
+Interface disponível para fazer requisições e consultas em bancos de dados inacessíveis (correios, governo)
+

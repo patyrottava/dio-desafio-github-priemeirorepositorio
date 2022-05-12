@@ -1,0 +1,27 @@
+TCP/IP
+
+Protocolos de comunicação entre computadores 
+
+Modelo de camadas
+
+4 camadas
+
+- Física ( placa de rede)
+-Rede ( IP)
+- Transporte ( TCP,UDP)
+-Aplicação ( HTTP)
+
+TCP X UDP
+
+UDP
+- rápida
+-não confiável
+-carro do ovo
+-livestream
+
+TCP
+
+- voltado à conexão
+-Handshake "Aperto de mãos"
+-Integridade, ordem dos dados
+- Aplicativo de mensagens de texto

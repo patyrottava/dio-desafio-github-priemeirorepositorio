@@ -1,0 +1,6 @@
+Conexão ponto-a-ponto
+
+classe   potência  Alcance
+1           100mW    100m
+2            2,5mW      10m
+3            1mW           1m

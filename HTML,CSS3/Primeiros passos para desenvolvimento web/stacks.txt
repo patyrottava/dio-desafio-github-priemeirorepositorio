@@ -1,0 +1,22 @@
+o que é
+
+-pilhas de tecnologias
+-conjunto de softwares necessários e suficientes ´para executar um aplicativo/programa
+-linguagens de programação
+-ambientes e ferramentas de interaçãocom app/sw
+-ambiente tecnologico com capacidades e ferramentas para desenvolvimento
+
+
+
+Front-end
+- parte da frente
+- site,software,aplicativo,web service
+-Interface,UI,UX
+-lógica deprogramação
+
+
+Back-end
+-parte de trás do site
+-servidores
+-banco de dados
+-meio de campo entre interface e bancos de dados,regrras de negócios, validações

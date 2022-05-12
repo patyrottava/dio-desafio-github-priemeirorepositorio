@@ -1,0 +1,17 @@
+Modem 
+
+
+-Modulator-demodulator
+-Hardwarw que coonverte dados em um formato que possa ser transmitido de um
+computadoor para outro e lido por outro
+
+
+Roteador
+
+-Distribui internet para um ou mais dispositivos de uma rede
+-comunicação entre redes
+
+Switch
+
+- Distribui internet para um ou mais dispositivos
+- criado para ser "inteligente"

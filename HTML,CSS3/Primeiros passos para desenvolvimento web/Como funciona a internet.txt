@@ -1,0 +1,26 @@
+O que são redes?
+
+Backbone "espinha dorsal"
+-poucas
+-gerenciam as conexões
+
+
+Provedor de acesso
+- empresastelefonicas
+-fornecem acesso ao backbone
+-proveem serviços
+-Dial-up
+-ADSL (banda larga)
+-Rádio
+-Satélite
+-móvel
+-P2P
+
+
+Caminho inverso
+
+-www
+-servidor DNS (transforma em um número o IP)
+-127.0.0.1
+
+

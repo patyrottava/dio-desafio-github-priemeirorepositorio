@@ -1,0 +1,56 @@
+Principais linguagens
+
+-HTML
+-CSS
+-JavaScipt(jQuey, AJAX,diversas libs)
+-PHP
+-.NET
+-ASP
+-Java
+-Ruby
+-Python
+-Perl
+-C/C++/C#
+
+
+
+Termos comuns
+
+-404: página não existe
+-Algoritmo
+-ALT: texto alternativo
+-API: funcionalidade a mais
+-Aplicação
+-Back-end
+-Biblioteca/dll
+-Bootstrap
+-Breakpoints
+-Browser/navegador
+-Bug
+-Cache
+-Código
+-Controle de versão
+-cookies
+-Debug
+-Deploy
+-Design adaptativo
+-DNS
+-Dominio
+-DPI
+-Estrutura de dados
+-Favicon
+-Fontes
+-FTP
+-HTTP
+-IP
+-Linguagem
+-Meta tags
+-Mobile
+-MVC
+-MVP
+-mySQL
+-Pixel
+-SSL
+-UI
+-UX
+-MYSIWYG
